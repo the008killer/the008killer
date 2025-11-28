@@ -28,12 +28,12 @@
 <!--   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-adhikari&theme=dark" alt="streak" /></p> -->
 
   <!-- Wrap the stats in a flex container -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 0;">
+ <!-- <div style="display: flex; justify-content: center; align-items: center; gap: 0;">
     <img style="margin: 0; height: 200px; " src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin-adhikari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
     <img style="margin: 0; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ashwin-adhikari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ashwin Adhikari's GitHub Stats" />
   </div>
 </div>
-
+-->
 
 <br><!-- Add a line break to create some space between the sections -->
 
