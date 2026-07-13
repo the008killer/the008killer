@@ -1,0 +1,93 @@
+name: Update Mr Robot Quote
+
+on:
+  # Runs every day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Lets you run it manually to test
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Download your README repo files
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 2: Fetch quote from your live API
+      - name: Fetch Quote from API
+        run: |
+          echo "Fetching quote from API..."
+
+          # Call your live API
+          RESPONSE=$(curl -s https://quotes.adhikariashwin0.com.np/api/quote/daily)
+          echo "API Response: $RESPONSE"
+
+          # Extract quote parts using python
+          python3 << 'EOF'
+          import json
+          import os
+
+          response = os.popen('curl -s https://quotes.adhikariashwin0.com.np/api/quote/daily').read()
+          data = json.loads(response)
+
+          quote = data['quote']
+          text = quote['text']
+          character = quote['character']
+          category = quote['category']
+
+          # Format the quote nicely for markdown
+          formatted = f'> *"{text}"*\n>\n> — **{character}** `#{category}`'
+
+          # Save to temp file
+          with open('/tmp/quote.txt', 'w') as f:
+              f.write(formatted)
+
+          print("Quote saved successfully!")
+          print(formatted)
+          EOF
+
+      # Step 3: Update README with new quote
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          import re
+
+          # Read current README
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Read the new quote
+          with open('/tmp/quote.txt', 'r') as f:
+              new_quote = f.read()
+
+          # Replace content between the tags
+          new_content = re.sub(
+              r'<!-- MR_ROBOT_QUOTE_START -->.*?<!-- MR_ROBOT_QUOTE_END -->',
+              f'<!-- MR_ROBOT_QUOTE_START -->\n{new_quote}\n<!-- MR_ROBOT_QUOTE_END -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          # Save updated README
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+
+          print("README updated successfully!")
+          EOF
+
+      # Step 4: Commit and push changes
+      - name: Commit and Push
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+
+          # Only commit if something changed
+          git diff --staged --quiet || git commit -m "🤖 Daily Mr. Robot Quote Update"
+          git push
