@@ -11,7 +11,9 @@
 ## 🤖 Mr. Robot Quote of the Day
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *Waiting for signal from fsociety...*
+> *"We wear the world’s code like a second skin, and when the firewalls fall, the hollow inside us finally feels like home."*
+>
+> — **Elliot Alderson** `#paranoia`
 <!-- MR_ROBOT_QUOTE_END -->
 
 ---
