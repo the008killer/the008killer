@@ -13,7 +13,7 @@
 <!-- MR_ROBOT_QUOTE_START -->
 > *"We wear the world’s code like a second skin, and when the firewalls fall, the hollow inside us finally feels like home."*
 >
-> — **Elliot Alderson** `#paranoia`
+> — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 ---
