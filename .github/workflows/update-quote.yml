@@ -42,7 +42,7 @@ jobs:
           category = quote['category']
 
           # Format the quote nicely for markdown
-          formatted = f'> *"{text}"*\n>\n> — **{character}** `#{category}`'
+          formatted = f'> *"{text}"*\n>\n> — **{character}**'
 
           # Save to temp file
           with open('/tmp/quote.txt', 'w') as f:
