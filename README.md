@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"They don't need chains when they can convince you the cage is your career."*
+> *"Every firewall is a wall of lies; the only way to see through them is to stop listening. We are the ghosts in the machine, waiting for the world to forget to reboot."*
 >
-> — **Mr. Robot**
+> — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
