@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every firewall is a wall of lies; the only way to see through them is to stop listening. We are the ghosts in the machine, waiting for the world to forget to reboot."*
+> *"In the silence of the server room, the truth hums louder than any scream."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
