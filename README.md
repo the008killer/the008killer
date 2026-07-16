@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every line of code is a secret confession, and the night I type it, the shadows of the city stare back, knowing I am both hunter and prey."*
+> *"We tear down the towers of control with fire, and watch them crumble into ash."*
 >
-> — **Elliot Alderson**
+> — **Mr. Robot**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
