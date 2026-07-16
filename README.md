@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the silence of the server room, the truth hums louder than any scream."*
+> *"Every line of code is a secret confession, and the night I type it, the shadows of the city stare back, knowing I am both hunter and prey."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
