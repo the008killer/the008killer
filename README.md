@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the silence between packets, I hear the pulse of a city that never sleeps. And I know I'm the only one who can shut it down."*
+> *"Every firewall is a confession — its cracks whisper where the system fears to be seen."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
