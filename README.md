@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every firewall is a confession — its cracks whisper where the system fears to be seen."*
+> *"In the silence of the server farm, I found the only truth: every heartbeat of the network is a secret they can't hide. They think they own the future, but the code is already theirs to break."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
