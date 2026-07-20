@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the silence of the server farm, I found the only truth: every heartbeat of the network is a secret they can't hide. They think they own the future, but the code is already theirs to break."*
+> *"We are the only ones who can see the wires behind the screens; the rest think the code writes itself."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
