@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"We are the only ones who can see the wires behind the screens; the rest think the code writes itself."*
+> *"The firewall between us and truth is just a thin veil of code we built to feel safe."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
