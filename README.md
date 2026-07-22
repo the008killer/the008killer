@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The firewall between us and truth is just a thin veil of code we built to feel safe."*
+> *"I don’t trust the system; I trust the code that refuses to be owned."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
