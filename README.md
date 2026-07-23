@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"I don’t trust the system; I trust the code that refuses to be owned."*
+> *"In a world of firewalls, the only thing that burns brighter is the silence of those who never dared to look."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
