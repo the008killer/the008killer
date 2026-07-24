@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In a world of firewalls, the only thing that burns brighter is the silence of those who never dared to look."*
+> *"The city's neon veins pulse like a heart, but I can feel the code bleeding out, leaking secrets that no one dares to read."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
