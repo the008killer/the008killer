@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The city's neon veins pulse like a heart, but I can feel the code bleeding out, leaking secrets that no one dares to read."*
+> *"In a world where every algorithm watches us, I’m the virus that erases their script. The silence after the crash is the only truth left."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
