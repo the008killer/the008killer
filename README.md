@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In a world where every algorithm watches us, I’m the virus that erases their script. The silence after the crash is the only truth left."*
+> *"The world is a firewall; every door you open is a trap you wired yourself."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
