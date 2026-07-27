@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The world is a firewall; every door you open is a trap you wired yourself."*
+> *"They built a firewall of lies, but I see the cracks where the truth leaks out. When the lights go out, only my pulse remains against the silence."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
