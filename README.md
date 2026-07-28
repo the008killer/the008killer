@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"They built a firewall of lies, but I see the cracks where the truth leaks out. When the lights go out, only my pulse remains against the silence."*
+> *"The clock ticks in binary; I will hijack its hands before they dictate our fate."*
 >
-> — **Elliot Alderson**
+> — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
