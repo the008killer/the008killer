@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In this maze of servers, the only thing louder than the fans is the echo of my own thoughts, screaming that I'm not alone."*
+> *"Freedom is a script written by those who control the source code of reality."*
 >
-> — **Elliot Alderson**
+> — **Mr. Robot**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
