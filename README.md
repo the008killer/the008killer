@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the silence between packets, I hear the world screaming for a backdoor."*
+> *"The system watches, but I’ve learned to vanish behind my own code; in a city of lights, my shadows are the only truth."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
