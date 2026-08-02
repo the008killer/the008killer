@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The system watches, but I’ve learned to vanish behind my own code; in a city of lights, my shadows are the only truth."*
+> *"In a world where every server hums with secrets, I'm the ghost that watches the lights flicker, knowing that the only thing more terrifying than a breach is the silence after it."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
