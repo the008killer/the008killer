@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In a world where every server hums with secrets, I'm the ghost that watches the lights flicker, knowing that the only thing more terrifying than a breach is the silence after it."*
+> *"In a world built on lies, the only truth is the code you write in the dark."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
