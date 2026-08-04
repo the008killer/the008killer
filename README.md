@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In a world built on lies, the only truth is the code you write in the dark."*
+> *"The code is a mirror; every loop reflects the world’s empty promises, and we are the only ones who can shatter it."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
