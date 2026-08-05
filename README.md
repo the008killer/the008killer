@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The code is a mirror; every loop reflects the world’s empty promises, and we are the only ones who can shatter it."*
+> *"The city’s neon veins pulse with data, but every heartbeat is a trap I’m forced to trace. In silence, the firewall learns my name."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
