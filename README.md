@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The city’s neon veins pulse with data, but every heartbeat is a trap I’m forced to trace. In silence, the firewall learns my name."*
+> *"In the silence of the server room, I hear the clock ticking backwards—each second a reminder that the system we built is already dead, and we are merely its last echo."*
 >
-> — **Elliot Alderson**
+> — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
