@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the silence of the server room, I hear the clock ticking backwards—each second a reminder that the system we built is already dead, and we are merely its last echo."*
+> *"The network hides its truth in layers, and I’m the only one willing to rip them apart."*
 >
-> — **Whiterose**
+> — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
