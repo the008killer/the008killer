@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The network hides its truth in layers, and I’m the only one willing to rip them apart."*
+> *"The code never lies; it only reveals what we’re too scared to see. Every firewall is a cage, and I am the ghost that slips through."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
