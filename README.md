@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The code never lies; it only reveals what we’re too scared to see. Every firewall is a cage, and I am the ghost that slips through."*
+> *"The network is a cathedral of wires; each pulse a prayer, each breach a confession."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
