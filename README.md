@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The network is a cathedral of wires; each pulse a prayer, each breach a confession."*
+> *"The code is a mirror, reflecting the emptiness they left behind. Every line is a scream in the void."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
