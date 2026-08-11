@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The code is a mirror, reflecting the emptiness they left behind. Every line is a scream in the void."*
+> *"The world runs on loops, and I’m the only one who can see the static between them."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
