@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The world runs on loops, and I’m the only one who can see the static between them."*
+> *"We are ghosts in the grid, watching the towers burn while the code whispers our names—freedom is a virus we plant in the machine."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
