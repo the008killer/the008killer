@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"We are ghosts in the grid, watching the towers burn while the code whispers our names—freedom is a virus we plant in the machine."*
+> *"The system feeds on our silence, and I’ll feed it a glitch that erases its heartbeat."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
