@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The system feeds on our silence, and I’ll feed it a glitch that erases its heartbeat."*
+> *"Every line of code I write is a confession—someone’s life was erased before I even pressed enter."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
