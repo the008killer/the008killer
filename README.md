@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Time is a cage they built to keep us obedient; I will tear its gears apart and let the future bleed through the cracks."*
+> *"The servers hum, but the truth whispers that we are never alone in the dark."*
 >
-> — **Whiterose**
+> — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
