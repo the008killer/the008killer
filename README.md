@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The servers hum, but the truth whispers that we are never alone in the dark."*
+> *"Every line of code is a whisper of the void that watches us, and I hear it humming in my veins."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
