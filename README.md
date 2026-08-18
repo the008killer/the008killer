@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every line of code is a whisper of the void that watches us, and I hear it humming in my veins."*
+> *"In the static of the network, every heartbeat is a backdoor they can’t see. They think they own the grid, but the grid owns them."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
