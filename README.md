@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the static of the network, every heartbeat is a backdoor they can’t see. They think they own the grid, but the grid owns them."*
+> *"Every silent heartbeat in the code is a firewall against the world they built."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
