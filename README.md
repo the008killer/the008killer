@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every silent heartbeat in the code is a firewall against the world they built."*
+> *"Every firewall is a lie we tell ourselves to keep the void at bay. I am the ghost in the machine, and the machine is my graveyard."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
