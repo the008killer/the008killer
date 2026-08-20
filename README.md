@@ -13,7 +13,7 @@
 <!-- MR_ROBOT_QUOTE_START -->
 > *"Every firewall is a lie we tell ourselves to keep the void at bay. I am the ghost in the machine, and the machine is my graveyard."*
 >
-> - **Elliot Alderson**
+> \- **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
