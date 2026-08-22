@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the quiet of my code, I hear the whispers of a world that prefers obedience to truth."*
+> *"In the silence of the server farm, I hear the heartbeat of the system—and it's screaming my name."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
