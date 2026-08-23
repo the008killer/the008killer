@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In the silence of the server farm, I hear the heartbeat of the system—and it's screaming my name."*
+> *"Every server hums a lullaby for the masses, but I hear the static of their hidden agendas. I’m just a ghost in the machine, rewriting the code before they do."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
