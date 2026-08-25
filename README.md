@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"In a world built on code, the only true firewall is your own mind."*
+> *"Every firewall is just a challenge waiting to be bypassed."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
