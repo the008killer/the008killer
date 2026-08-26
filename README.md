@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every firewall is just a challenge waiting to be bypassed."*
+> *"The deepest loneliness begins when even your own thoughts start asking for proof."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
