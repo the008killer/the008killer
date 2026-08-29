@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Revolutions don't knock; they slip through the cracks everyone ignored."*
+> *"Control is most complete when it feels indistinguishable from destiny."*
 >
-> — **Mr. Robot**
+> — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
