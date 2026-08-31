@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The deepest loneliness begins when even your own thoughts start asking for proof."*
+> *"Reality keeps changing its checksum, and somehow I'm always the corrupted file."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
