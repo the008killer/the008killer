@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Corporations don't erase people; they overwrite them."*
+> *"You can disappear from the internet, but good luck disappearing from yourself."*
 >
-> — **Mr. Robot**
+> — **Darlene Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
