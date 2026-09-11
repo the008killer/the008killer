@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The network never sleeps because fear is always online."*
+> *"Reality keeps changing its checksum, and somehow I'm always the corrupted file."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
