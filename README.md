@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Funny how silence always knows my address before people do."*
+> *"Reality keeps changing its checksum, and somehow I'm always the corrupted file."*
 >
-> — **Darlene Alderson**
+> — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
