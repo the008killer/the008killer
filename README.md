@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The clock is only honest with those willing to lose everything before it strikes."*
+> *"Every city has a backdoor; you just have to stop trusting the map."*
 >
-> — **Whiterose**
+> — **Darlene Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
