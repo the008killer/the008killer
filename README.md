@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Reality keeps changing its checksum, and somehow I'm always the corrupted file."*
+> *"We stitch the fault lines of the world together with code, then watch the tapestry fray as soon as we step back."*
 >
-> — **Elliot Alderson**
+> — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
