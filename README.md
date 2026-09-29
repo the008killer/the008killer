@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"We stitch the fault lines of the world together with code, then watch the tapestry fray as soon as we step back."*
+> *"You can disappear from the internet, but good luck disappearing from yourself."*
 >
-> — **Whiterose**
+> — **Darlene Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
