@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The network never sleeps because fear is always online."*
+> *"Every password you remember is another door someone else is trying to open."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
