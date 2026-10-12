@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Reality keeps changing its checksum, and somehow I'm always the corrupted file."*
+> *"They don't need chains when they can convince you the cage is your career."*
 >
-> — **Elliot Alderson**
+> — **Mr. Robot**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
