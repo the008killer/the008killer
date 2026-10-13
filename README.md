@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"They don't need chains when they can convince you the cage is your career."*
+> *"We stare into the code like a preacher into a confession, trying to rewrite the sins of a world that never logged out."*
 >
-> — **Mr. Robot**
+> — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
