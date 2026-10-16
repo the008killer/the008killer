@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The cleanest exploit is the one that makes the victim believe they chose it."*
+> *"The network never sleeps because fear is always online."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
