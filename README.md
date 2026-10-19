@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"We stare into the code like a preacher into a confession, trying to rewrite the sins of a world that never logged out."*
+> *"We stitch the fault lines of the world together with code, then watch the tapestry fray as soon as we step back."*
 >
-> — **Elliot Alderson**
+> — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
