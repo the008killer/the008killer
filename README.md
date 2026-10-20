@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"We stitch the fault lines of the world together with code, then watch the tapestry fray as soon as we step back."*
+> *"Control is most complete when it feels indistinguishable from destiny."*
 >
 > — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
