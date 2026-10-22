@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"We stare into the code like a preacher into a confession, trying to rewrite the sins of a world that never logged out."*
+> *"The deepest loneliness begins when even your own thoughts start asking for proof."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
