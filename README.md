@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Time does not forgive hesitation; it simply buries it beneath the next second."*
+> *"The loudest rebellion is refusing to become the product they already priced."*
 >
-> — **Whiterose**
+> — **Mr. Robot**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
