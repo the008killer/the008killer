@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The loudest rebellion is refusing to become the product they already priced."*
+> *"Funny how silence always knows my address before people do."*
 >
-> — **Mr. Robot**
+> — **Darlene Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
