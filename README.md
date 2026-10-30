@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"We stare into the code like a preacher into a confession, trying to rewrite the sins of a world that never logged out."*
+> *"Reality keeps changing its checksum, and somehow I'm always the corrupted file."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
