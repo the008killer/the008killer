@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"A delayed decision is still a decision made in favor of someone else."*
+> *"We stitch the fault lines of the world together with code, then watch the tapestry fray as soon as we step back."*
 >
 > — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
