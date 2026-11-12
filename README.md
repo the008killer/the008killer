@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Revolutions don't knock; they slip through the cracks everyone ignored."*
+> *"Corporations don't erase people; they overwrite them."*
 >
 > — **Mr. Robot**
 <!-- MR_ROBOT_QUOTE_END -->
