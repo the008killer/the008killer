@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every hidden process leaves a trace, even the ones running inside your mind."*
+> *"Time does not forgive hesitation; it simply buries it beneath the next second."*
 >
-> — **Elliot Alderson**
+> — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
