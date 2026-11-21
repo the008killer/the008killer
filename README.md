@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The clock is only honest with those willing to lose everything before it strikes."*
+> *"Time does not forgive hesitation; it simply buries it beneath the next second."*
 >
 > — **Whiterose**
 <!-- MR_ROBOT_QUOTE_END -->
