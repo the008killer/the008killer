@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every hidden process leaves a trace, even the ones running inside your mind."*
+> *"The system isn’t broken. It was built this way."*
 >
 > — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
