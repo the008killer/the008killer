@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"The system isn’t broken. It was built this way."*
+> *"Every city has a backdoor; you just have to stop trusting the map."*
 >
-> — **Elliot Alderson**
+> — **Darlene Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
