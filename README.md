@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Every city has a backdoor; you just have to stop trusting the map."*
+> *"Control is an illusion designed by those who fear chaos."*
 >
-> — **Darlene Alderson**
+> — **Mr. Robot**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
