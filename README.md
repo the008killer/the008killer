@@ -11,9 +11,9 @@
 <br><br>
 
 <!-- MR_ROBOT_QUOTE_START -->
-> *"Control is an illusion designed by those who fear chaos."*
+> *"The system isn’t broken. It was built this way."*
 >
-> — **Mr. Robot**
+> — **Elliot Alderson**
 <!-- MR_ROBOT_QUOTE_END -->
 
 <sub>🔄 Auto-updated daily by <a href="https://quotes.adhikariashwin0.com.np">quotes.adhikariashwin0.com.np</a></sub>
